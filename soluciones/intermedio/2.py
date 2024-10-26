@@ -1,4 +1,4 @@
-# 2.md
+# https://github.com/josiqq/practicas-aguarandu/blob/main/enunciados/intermedio/2.md
 
 def es_palindromo(text):
     text_invert = ""

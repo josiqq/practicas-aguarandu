@@ -1,4 +1,4 @@
-# 6.md
+# https://github.com/josiqq/practicas-aguarandu/blob/main/enunciados/intermedio/6.md
 
 def longitud_maxima_subcadena(text):
     caracteres = sorted(set(text))  

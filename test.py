@@ -1,14 +1,4 @@
-# matriz espiral
+es_primo = [True] * (10+1)
+es_primo[0], es_primo[1] = False, False
 
-matriz = [
-    [1, 2, 3], # 0
-    [4, 5, 6], # 1
-    [7, 8, 9]  # 2
-]
-
-top, bottom = 0, len(matriz) - 1
-left, right = 0, len(matriz[0]) - 1
-
-# print column right
-for i in range(bottom + 1):
-    print(matriz[i][left], end=" ")
+print(es_primo)

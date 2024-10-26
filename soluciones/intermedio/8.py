@@ -1,4 +1,4 @@
-# 8.md
+# https://github.com/josiqq/practicas-aguarandu/blob/main/enunciados/intermedio/8.md
 
 def numero_faltante(lista):
     lista.sort()
